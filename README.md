@@ -14,4 +14,4 @@ Predicting possibility of cross selling to existing Health Insurance customers u
 
 The python notbook contains the Data Cleaning and Data Visualisation part.
 
-The Rmarkdown pdf contains the Machine Learning part.
+The Rmarkdown pdfs contain the Machine Learning part.
