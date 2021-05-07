@@ -8,6 +8,7 @@ Predicting possibility of cross selling to existing Health Insurance customers u
 **Team & Course:**
 
 *Team:* Shamika Kalwe, Yuchen Feng, (Bruce) Chang-Hung Hou, Chenli Qiu, Lequn Yu, and Qiqi Tang
+
 *Course:* Supervised Machine Learning (BA810)
 
 
